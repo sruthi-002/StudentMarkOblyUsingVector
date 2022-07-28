@@ -9,7 +9,7 @@ class Main {
         int n,i;
         float a;
         Vector<Student>s = new Vector<Student>();
-        Student []myobj=new Student[5];
+        Student myobj=new Student();
         Mark sub =new Mark();
         Student myobj1 = new Student();
         for(i=0;i<5;i++) {
